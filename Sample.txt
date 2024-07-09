@@ -7,3 +7,4 @@ This is main Branch
 This is the new line added to the file in Branch.
 This is in Master Branch.
 This is in Testing Branch.
+New line added through Git
